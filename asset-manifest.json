@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.73e3e6d5.css",
+    "main.js": "/static/js/main.d8768409.js",
+    "static/media/pizzaSecond.png": "/static/media/pizzaSecond.723e3fe7f37fb76968e5.png",
+    "static/media/loveAtFirstBite.png": "/static/media/loveAtFirstBite.921e4b7eb693749e17c9.png",
+    "static/media/firstPizzaCard.png": "/static/media/firstPizzaCard.b7d2784fd5ee31c71cbb.png",
+    "static/media/kgk4_one.png": "/static/media/kgk4_one.6e7c0e1fc8acf5ff1fef.png",
+    "static/media/kgk4_three.png": "/static/media/kgk4_three.c2b167a7bfdf7272080b.png",
+    "static/media/kgk4_two.png": "/static/media/kgk4_two.4c1e3771cfc72beba486.png",
+    "static/media/Yemeksepeti_logo.svg.png": "/static/media/Yemeksepeti_logo.svg.a23828c941c0177894d2.png",
+    "static/media/firstImageGallery.jpg": "/static/media/firstImageGallery.ea48bed45a58e19eb857.jpg",
+    "static/media/thirdGalImg.webp": "/static/media/thirdGalImg.3c01bc9af81dd10f7b9a.webp",
+    "static/media/secondImgGal.webp": "/static/media/secondImgGal.b4e3f1b6530b2fce36e0.webp",
+    "static/media/unnamed.png": "/static/media/unnamed.c8623578c2d889f4b74c.png",
+    "static/media/loveAtFirstBiteMobile.png": "/static/media/loveAtFirstBiteMobile.e938a0d8f4caffd9b0e7.png",
+    "static/media/profileChefSecond.jpg": "/static/media/profileChefSecond.2d4e5ae18ef663eec89f.jpg",
+    "static/media/moreOptionsBG.png": "/static/media/moreOptionsBG.e79c798b6eb90091752e.png",
+    "static/media/profileChefFirst.jpg": "/static/media/profileChefFirst.4fddd6a6f4fa68e7995b.jpg",
+    "static/media/transitionTwo.png": "/static/media/transitionTwo.f80202d1d0ba10c534a1.png",
+    "static/media/appStore.svg": "/static/media/appStore.889a78bcaac6904b9719ee098e620c9f.svg",
+    "static/media/playStore.svg": "/static/media/playStore.f1e22543aa99c1ed8907abf2683511a8.svg",
+    "index.html": "/index.html",
+    "main.73e3e6d5.css.map": "/static/css/main.73e3e6d5.css.map",
+    "main.d8768409.js.map": "/static/js/main.d8768409.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73e3e6d5.css",
+    "static/js/main.d8768409.js"
+  ]
+}
